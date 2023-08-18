@@ -1,2 +1,2 @@
 # toolz
-Some of Zach's tools
+Some of Zach's cli tools
